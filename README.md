@@ -4,8 +4,9 @@
 
 ### Connect with me:
 
-(./img/instagram-light.svg)](https://instagram.com/minesssp)
-(./img/instagram-dark.svg)](https://instagram.com/minessp)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
