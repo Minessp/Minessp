@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/minesssp)
-[![website](./img/instagram-dark.svg)](https://instagram.com/minessp)
+(./img/instagram-light.svg)](https://instagram.com/minesssp)
+(./img/instagram-dark.svg)](https://instagram.com/minessp)
 
 ### Languages and Tools:
 
