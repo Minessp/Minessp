@@ -3,7 +3,7 @@
 
 ## Contacts:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/paulosilvawork/)
-[![LinkedIn](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:paulosilva.jobs@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:paulosilva.jobs@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/minesssp/)
 
 ## Languages and Tools:
